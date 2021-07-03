@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "author": "dhphong",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "Sáng tác Việt",
+      "author": "dhphong",
+      "path": "https://raw.githubusercontent.com/dhphong/vbk-exts/master/sangtacviet/plugin.zip",
+      "version": 1,
+      "source": "http://sangtacviet.com",
+      "icon": "https://raw.githubusercontent.com/dhphong/vbk-exts/master/sangtacviet/icon.png",
+      "description": "Đọc truyện trên trang Sangtacviet.com"
+    }
+  ]
+}
